@@ -37,14 +37,6 @@ Creating A Blog In Django has interactive UI design using which users can see wh
 - **Template** :- In this method which is the design of the system that consist of HTML,CSS and JavaScript.
 
 
-
-## 🚀 Setup/Installation Requirements
-
-To view the website, 
-* click [Python Django Blog Website](https://github.com/keerti1924/Python-Django-Blog-Website.git)
-or 
-* copy the link https://github.com/keerti1924/Python-Django-Blog-Website.git paste it to your browser and load it.  
-
 ## 🛠 Built With
 
 * HTML
@@ -54,10 +46,4 @@ or
 * DJANGO
 * DATABASE 
 
-The system is built fully in Django Framework in back-end and HTML, CSS in front-end. It has full-featured user interface with all the functionalities
-
-
-## ⭐️ Show your support 
-
-Give a ⭐️ if you like this project!
 
